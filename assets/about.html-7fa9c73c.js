@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cbc42706","path":"/docs/theme-reco/about.html","title":"关于我","lang":"en-US","frontmatter":{"title":"关于我","date":"2023/09/14"},"headers":[{"level":2,"title":"帅就完了，多的不想说，哈哈哈","slug":"帅就完了-多的不想说-哈哈哈","link":"#帅就完了-多的不想说-哈哈哈","children":[]}],"git":{},"filePathRelative":"docs/theme-reco/about.md"}');export{e as data};

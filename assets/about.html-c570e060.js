@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,b as c}from"./app-1e3c9540.js";const r={},s=e("h2",{id:"帅就完了-多的不想说-哈哈哈",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#帅就完了-多的不想说-哈哈哈","aria-hidden":"true"},"#"),c(" 帅就完了，多的不想说，哈哈哈")],-1),n=[s];function _(d,i){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","about.html.vue"]]);export{l as default};
